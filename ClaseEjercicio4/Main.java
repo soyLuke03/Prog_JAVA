@@ -13,7 +13,7 @@ public class Main {
 		System.out.println("Elija su opción: \n"
 						 + "1- Sumar complejos \n"
 						 + "2- Restar complejos \n"
-						 + "3- Salir");
+						 + "3- Igualar complejos");
 		String opc = sc1.nextLine();
 		
 		if (opc.equals("1")) {
@@ -25,6 +25,8 @@ public class Main {
 			comp.restaDosNumeros();
 			
 		}else if (opc.equals("3")) {
+			
+			comp.equals();
 			
 		}else {
 			System.out.println("opción inválida");
