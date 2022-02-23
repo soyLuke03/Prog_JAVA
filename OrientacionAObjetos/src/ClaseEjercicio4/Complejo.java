@@ -1,9 +1,100 @@
 package ClaseEjercicio4;
 
+import java.util.Objects;
 import java.util.Scanner;
 
 public class Complejo {
 	
+	
+//	Correción
+	
+	
+
+
+
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(imaginario, real);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		
+		Complejo otro = (Complejo) obj;
+		boolean sonIguales = false;
+		
+		if(this.real.equals(otro.getReal()) && this.imaginario.equals(otro.getImaginario())) {
+			sonIguales = true;
+		}
+		
+		return sonIguales;
+	}
+
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "("+real+", "+imaginario+")" ;
+	}
+	
+	
+	private Double real;
+	private Double imaginario;
+	
+	
+	
+	public Complejo(double real, double imaginario) {
+		this.real = real;
+		this.imaginario = imaginario;
+	}
+	
+	
+	
+	public Complejo suma(Complejo otroComplejo) {
+		double real = this.real + otroComplejo.getReal();
+		double imaginario = this.imaginario + otroComplejo.getImaginario();
+		
+		return new Complejo(real, imaginario);
+	}
+	
+	
+	public Double getReal() {
+		return real;
+	}
+	public Double getImaginario() {
+		return imaginario;
+	}
+	
+	
+	/*
+	public void equals() {
+		boolean sonIguales = false;
+		
+		System.out.println("Introduce la parte real: ");
+		double pReal1 = Integer.valueOf(sc1.nextLine());
+		System.out.println("Introduce la parte imaginaria (SIN INCLUIR LA i): ");
+		double pImaginaria1 = Integer.valueOf(sc1.nextLine());
+		Complejo com1 = new Complejo(pReal1,pImaginaria1);
+		
+		System.out.println("Introduce la parte real: ");
+		double pReal2 = Integer.valueOf(sc1.nextLine());
+		System.out.println("Introduce la parte imaginaria (SIN INCLUIR LA i): ");
+		double pImaginaria2 = Integer.valueOf(sc1.nextLine());
+		Complejo com2 = new Complejo(pReal2,pImaginaria2);
+
+		
+		if (com1.parteReal.equals(com2.parteReal) && com1.parteImaginaria.equals(com2.parteImaginaria)) {
+			sonIguales = true;
+		}
+		
+		
+		System.out.println(pReal1 + " " + pImaginaria1 + "i \n"
+						  + pReal2 + " " + pImaginaria2 + "i \n");
+		System.out.println("Son iguales: " + sonIguales);
+	}
+	
+	
+
 	private Double parteReal = 0.0;
 	private Double parteImaginaria = 0.0;
 	static Scanner sc1 = new Scanner(System.in);
@@ -77,51 +168,9 @@ public class Complejo {
 		 }else {
 			 System.out.println(pRealNueva+"+"+pImaginariaNueva + "i");
 		 }
+		 
+		 
 	}
 	
-	public void compararDosNumeros() {
-		
-		System.out.println("Introduce la parte real: ");
-		double pReal1 = Integer.valueOf(sc1.nextLine());
-		System.out.println("Introduce la parte imaginaria (SIN INCLUIR LA i): ");
-		double pImaginaria1 = Integer.valueOf(sc1.nextLine());
-		Complejo com1 = new Complejo(pReal1,pImaginaria1);
-		
-		System.out.println("Introduce la parte real: ");
-		double pReal2 = Integer.valueOf(sc1.nextLine());
-		System.out.println("Introduce la parte imaginaria (SIN INCLUIR LA i): ");
-		double pImaginaria2 = Integer.valueOf(sc1.nextLine());
-		Complejo com2 = new Complejo(pReal2,pImaginaria2);
-		
-		
-		StringBuilder sb1 = new StringBuilder();
-		StringBuilder sb2 = new StringBuilder();
-		
-		if (pImaginaria1 < 0) {
-			 sb1.append(pReal1);
-			 sb1.append(pImaginaria1);
-			 sb1.append("i");
-		 }else {
-			 sb1.append(pReal1);
-			 sb1.append("+");
-			 sb1.append(pImaginaria1);
-			 sb1.append("i");	 
-			 }
-		
-		if (pImaginaria2 < 0) {
-			 sb2.append(pReal2);
-			 sb2.append(pImaginaria2);
-			 sb2.append("i");
-		 }else {
-			 sb2.append(pReal2);
-			 sb2.append("+");
-			 sb2.append(pImaginaria2);
-			 sb2.append("i");	 
-			 }
-		
-		System.out.println(sb1.equals(sb2));	
-	}
-	//Setter
-	//Getter
-
+	*/
 }
