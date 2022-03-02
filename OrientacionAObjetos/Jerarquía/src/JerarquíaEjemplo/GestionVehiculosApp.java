@@ -1,30 +1,37 @@
 package JerarquíaEjemplo;
 
+import java.util.Scanner;
+
 public class GestionVehiculosApp {
 
 	public static void main(String[] args) {
 		
-		TerrestrePrueba[] garaje = new TerrestrePrueba[10];
-		AereoPrueba[] hangar = new AereoPrueba[10];
-		AcuaticoPrueba[] puerto = new AcuaticoPrueba[10];
-		
-		Coche ferrari = new Coche();
-		Coche panda = new Coche();
-		Moto kawasaki = new Moto();
-		Moto dingo = new Moto();
-		Dron marca = new Dron();
-		Barco patrullera = new Barco();
-		Avion iberia = new Avion();
-		
-		
-		garaje[0]= ferrari;
-		garaje[1]= panda;
-		garaje[2]=kawasaki;
-		garaje[3]=dingo;
-		
-		hangar[5]=iberia;
-		
-		puerto[1]=patrullera;
-		
+	
+		menu();
 	}
+
+	public static void menu() {
+		
+		VehiculoPrueba[] almacen;
+		
+		System.out.println("Tipo de almacén: 1- Garaje 2- Hangar 3- Puerto");
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int opcTipoAlmacen = Integer.valueOf(sc.nextLine());
+		
+		if(opcTipoAlmacen==1) {
+			almacen = new TerrestrePrueba[10];
+		}
+		else if(opcTipoAlmacen==2){
+			almacen= new AereoPrueba[5];
+		}
+		else {																												
+			almacen = new AcuaticoPrueba[20];
+		}
+		
+		almacen[0] = new Coche();
+	}
+
+
 }

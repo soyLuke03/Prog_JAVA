@@ -1,13 +1,15 @@
 package app.model;
 
+import java.util.Objects;
+
 public class Carta {
 
-	private Integer number;
+	private Double number;
 	private Palo palo;
 	
 	
 	//Builder
-	public Carta(Integer number, Palo palo) {
+	public Carta(Double number, Palo palo) {
 		super();
 		this.number = number;
 		this.palo = palo;
@@ -15,9 +17,20 @@ public class Carta {
 
 	//Metodos
 	
+	public Double getValor(Carta carta){
+		Double valor;
+		if (this.number <=7) {
+			valor = number;
+		}
+		else {
+			valor = 0.5;
+		}
+		
+		return valor;
+	}
 	
 	//Getters
-	public Integer getNumber() {
+	public Double getNumber() {
 		return number;
 	}
 	public Palo getPalo() {
@@ -25,7 +38,7 @@ public class Carta {
 	}
 
 	//Setter
-	public void setNumber(Integer number) {
+	public void setNumber(Double number) {
 		this.number = number;
 	}
 	public void setPalo(Palo palo) {
@@ -37,7 +50,26 @@ public class Carta {
 	
 	@Override
 	public String toString() {
-		return "Carta [number=" + number + ", palo=" + palo + "]";
+		return "Carta| numero:" + number + ", palo:" + palo;
+	}
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(number, palo);
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		boolean sonIguales = false;
+		
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Carta other = (Carta) obj;
+		return Objects.equals(number, other.number) && palo == other.palo;
 	}
 	
 }
