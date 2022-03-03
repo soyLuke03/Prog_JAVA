@@ -109,10 +109,10 @@ public class SieteYMedia {
 							}
 						}
 						System.out.println("Fin del juego\n");
-						if (ia.puntosIA<puntos && pierdeJugador == false) {
-							System.out.println("gana el jugador 1. \n");
+						if (ia.puntosIA<puntos && pierdeJugador == false || pierdeIA == true) {
+							System.out.println("gana el jugador. \n");
 						}
-						else if(ia.puntosIA>puntos && pierdeIA == false) {
+						else if(ia.puntosIA>puntos && pierdeIA == false || pierdeJugador == true) {
 							System.out.println("gana la IA. \n");
 						}
 						else {
@@ -198,10 +198,10 @@ public class SieteYMedia {
 							System.out.println("[ERROR] Opción inválida\n");
 						}
 					}
-					if (puntosJugador2<puntos && pierdeJugador == false) {
+					if (puntosJugador2<puntos && pierdeJugador == false || pierdeJugador2 == true) {
 						System.out.println("gana el jugador 1. \n");
 					}
-					else if(puntosJugador2>puntos && pierdeJugador2 == false) {
+					else if(puntosJugador2>puntos && pierdeJugador2 == false || pierdeJugador == true) {
 						System.out.println("gana el jugador 2. \n");
 					}
 					else {
