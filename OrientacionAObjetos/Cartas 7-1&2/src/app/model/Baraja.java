@@ -56,17 +56,23 @@ public class Baraja {
 		
 	}
 
-	
+
+	public String toString() {
+		StringBuilder sb = new StringBuilder();
+		
+		for(int i=0;i<this.listaCartas.length;i++) {
+			sb.append(listaCartas[i]+"\n");
+		}
+		
+		return sb.toString();
+		
+	}
 	
 	public Carta[] getListaCartas() {
 		return listaCartas;
 	}
 	
-	@Override
-	public String toString() {
-		return "Baraja [listaCartas=" + Arrays.toString(listaCartas) + ", NUMERO_CARTAS=" + NUMERO_CARTAS
-				+ ", CARTAS_POR_PALO=" + CARTAS_POR_PALO + ", siguiente=" + siguiente + "]";
-	}
+	
 
 
 
