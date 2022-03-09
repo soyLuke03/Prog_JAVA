@@ -10,7 +10,7 @@
 2. Proximamente (En código)
     * Juegos de cartas
     * Agenda con alarma
-    * 
+    
 
 
 
