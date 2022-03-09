@@ -6,14 +6,17 @@
     * Introducciones a Java mediante ejercicios
     * Ejercicios de orientación a objeto completados
     * Código de Java para jerarquías
-2. Proximamente
+
+2. Proximamente (En código)
     * Juegos de cartas
-    * Nuevos programas
+    * Agenda con alarma
+    * 
 
 
 
 # ¿DE QUÉ SE TRATA ESTE REPOSITORIO?
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWTltYSON3v9KARuqmQvK3uUCIMsIYq_tpA&usqp=CAU)
+
 #### Mayormente... Lo que su nombre indica
 > Cuando una persona empieza a aprender, solo genera códigos básicos. Aquí es donde guardo esos códigos mientras persigo mi meta.
 > No esperes grandes cosas aquí, pero si a alguien con ganas de aprender.
