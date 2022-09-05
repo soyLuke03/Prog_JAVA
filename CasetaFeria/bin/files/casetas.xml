@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<casetas>
+    <caseta id="6" id_calle="15">
+        <titulo>Los amigos</titulo>
+        <calle>Rafael Gómez Ortega</calle>
+        <numero>25</numero>
+        <modulos>1</modulos>
+        <clase>Municipal</clase>
+        <entidad/>
+    </caseta>
+    <caseta id="5" id_calle="13">
+        <titulo>Brenes</titulo>
+        <calle>Rafael Gómez Ortega</calle>
+        <numero>16</numero>
+        <modulos>4</modulos>
+        <clase>Municipal</clase>
+        <entidad/>
+    </caseta>
+    <caseta id="1" id_calle="12">
+        <titulo>Jacarandá</titulo>
+        <calle>Rafael Gómez Ortega</calle>
+        <numero>15</numero>
+        <modulos>2</modulos>
+        <clase>Municipal</clase>
+        <entidad/>
+    </caseta>
+</casetas>

@@ -1,0 +1,1002 @@
+ID,CODIGO,NOMBRE_PRODUCTO,ID_PEDIDO,CANTIDAD,PRECIO
+1,84-792-9691,Veal - Osso Bucco,84,5,7
+2,50-795-6778,Wine - Coteaux Du Tricastin Ac,10,9,8
+3,89-266-8395,Chicken - Wings, Tip Off,94,8,2
+4,31-745-6707,Cookie Dough - Double,35,1,5
+5,55-167-7163,Wine - Shiraz Wolf Blass Premium,70,7,7
+6,48-534-5247,Mcgillicuddy Vanilla Schnap,48,2,3
+7,95-687-6214,Juice - Tomato, 10 Oz,36,2,2
+8,42-979-9390,Table Cloth 53x53 White,97,8,5
+9,45-442-2404,Beans - Navy, Dry,22,9,10
+10,06-665-0983,Rabbit - Legs,32,4,2
+11,43-531-9720,Vanilla Beans,30,2,7
+12,66-494-2951,Bar Special K,39,8,2
+13,17-617-9233,Campari,6,8,6
+14,71-084-2229,Wine - Rosso Del Veronese Igt,39,5,7
+15,83-112-2087,Mushroom Morel Fresh,9,2,9
+16,94-245-7487,Pickerel - Fillets,29,2,8
+17,90-930-3198,Rice - Long Grain,63,2,3
+18,69-305-0008,Clam - Cherrystone,18,1,10
+19,98-395-0645,Ice Cream - Strawberry,7,2,1
+20,01-114-0510,Pepper - Red Thai,43,3,6
+21,07-740-7292,Sambuca Cream,44,6,1
+22,76-111-3075,Chinese Foods - Plain Fried Rice,77,2,3
+23,50-376-9776,Beer - Rickards Red,86,1,1
+24,66-201-3861,Scrubbie - Scotchbrite Hand Pad,25,1,3
+25,26-526-3716,Wine - Soave Folonari,79,7,6
+26,97-385-8698,Puree - Passion Fruit,23,10,3
+27,40-876-9496,Muffin Mix - Oatmeal,91,1,3
+28,35-923-2954,Pasta - Fett Alfredo, Single Serve,14,2,8
+29,82-709-0348,Milk - Chocolate 250 Ml,8,4,8
+30,66-858-9288,Lettuce - Baby Salad Greens,14,1,10
+31,09-436-4361,Grenadillo,23,7,5
+32,80-336-5781,Flour - Masa De Harina Mexican,68,8,2
+33,01-965-2754,Tuna - Fresh,70,9,3
+34,12-067-2551,Lettuce - Sea / Sea Asparagus,11,10,2
+35,29-710-1222,Tea - Decaf 1 Cup,13,3,7
+36,72-254-4970,Bouq All Italian - Primerba,18,3,9
+37,50-591-7161,Pepper - Black, Whole,2,1,8
+38,58-932-5547,Wine - Pinot Noir Mondavi Coastal,86,1,3
+39,97-854-7798,Mustard - Dijon,26,7,8
+40,67-583-0535,Sauce - Gravy, Au Jus, Mix,70,9,10
+41,01-407-4711,Dried Figs,19,8,8
+42,37-764-4636,Wine - Montecillo Rioja Crianza,18,10,9
+43,55-001-8289,Piping - Bags Quizna,7,10,7
+44,14-116-9210,Pork - Ground,98,1,9
+45,70-179-5412,External Supplier,43,2,8
+46,74-094-1556,Cheese - Mozzarella, Buffalo,85,10,7
+47,59-305-3243,Veal - Tenderloin, Untrimmed,60,5,6
+48,31-816-8556,Beans - Black Bean, Dry,45,7,5
+49,16-831-5059,Pepper - Red Bell,27,4,7
+50,76-039-8994,Ginger - Fresh,45,9,1
+51,84-803-6695,Meldea Green Tea Liquor,13,1,2
+52,98-358-9639,Sherry - Dry,20,8,3
+53,87-852-4130,Jicama,8,10,3
+54,61-400-2767,Versatainer Nc - 8288,16,8,3
+55,87-443-2115,Pheasants - Whole,51,10,10
+56,28-886-0382,Alize Red Passion,2,8,2
+57,40-315-3428,Daves Island Stinger,85,4,9
+58,10-780-7316,Tamarind Paste,29,10,6
+59,70-294-4185,Canada Dry,99,1,6
+60,05-318-3147,Pork - Bones,69,6,7
+61,23-464-8675,Potatoes - Idaho 100 Count,4,6,3
+62,96-936-5178,Beans - Black Bean, Dry,77,1,2
+63,25-846-5490,Kiwi Gold Zespri,5,7,3
+64,90-054-3318,Jam - Apricot,71,3,7
+65,52-347-6871,Cognac - Courvaisier,44,9,10
+66,36-598-5588,Calaloo,70,8,10
+67,01-800-5830,Chicken - Ground,79,2,1
+68,05-163-9833,Otomegusa Dashi Konbu,45,4,3
+69,42-572-0171,Veal - Inside, Choice,74,6,7
+70,63-248-3122,Red Currant Jelly,45,7,7
+71,00-910-1266,Lettuce - Boston Bib - Organic,95,5,3
+72,15-737-0766,Carrots - Mini, Stem On,19,4,2
+73,42-264-4753,White Fish - Filets,22,4,7
+74,51-625-0767,Rappini - Andy Boy,75,7,7
+75,39-051-9531,Wine - Taylors Reserve,35,9,9
+76,38-196-9182,Crab - Meat Combo,38,3,2
+77,31-239-3386,Marsala - Sperone, Fine, D.o.c.,55,1,7
+78,08-760-2192,Versatainer Nc - 888,13,3,5
+79,80-311-0556,Tea - Vanilla Chai,42,3,1
+80,82-480-5411,Wine - White, Cooking,87,5,9
+81,35-094-2641,Roe - White Fish,80,4,5
+82,74-860-3829,Artichoke - Hearts, Canned,91,3,6
+83,34-351-6011,Rum - White, Gg White,76,4,4
+84,72-647-3144,Energy Drink - Franks Pineapple,100,5,7
+85,25-027-4888,Compound - Raspberry,79,5,10
+86,38-373-5148,Nantucket - Carrot Orange,76,4,3
+87,84-174-7496,Pate - Peppercorn,42,5,6
+88,70-749-5271,Garbage Bag - Clear,6,8,9
+89,29-622-7226,Rice - Aborio,38,4,4
+90,19-775-9446,Pasta - Shells, Medium, Dry,84,6,7
+91,95-076-9923,Bread - Frozen Basket Variety,17,7,8
+92,23-508-4305,Wine - Stoneliegh Sauvignon,13,10,5
+93,88-088-5720,Doilies - 10, Paper,70,9,1
+94,49-018-2055,Spoon - Soup, Plastic,33,7,5
+95,23-143-0931,Snapple - Mango Maddness,33,7,3
+96,44-357-9595,Radish - Black, Winter, Organic,58,7,2
+97,24-739-4321,Carrots - Jumbo,68,10,6
+98,41-074-2069,Beef - Bones, Cut - Up,64,10,5
+99,83-147-8834,Water - Green Tea Refresher,19,1,7
+100,09-533-6986,Skirt - 29 Foot,88,8,8
+101,47-725-3506,Sobe - Liz Blizz,31,7,10
+102,14-421-1695,Ostrich - Prime Cut,88,4,7
+103,66-715-7355,Coffee Beans - Chocolate,30,5,2
+104,41-616-4662,Tomatoes - Plum, Canned,65,4,3
+105,77-897-4710,Bread - Multigrain, Loaf,40,7,10
+106,80-225-5280,Plate Foam Laminated 9in Blk,60,9,3
+107,10-651-0309,Lettuce - Mini Greens, Whole,63,7,3
+108,55-396-6115,Eggplant - Baby,1,10,6
+109,25-724-7008,Ecolab - Ster Bac,46,3,3
+110,52-596-0349,Potatoes - Mini Red,65,5,8
+111,60-592-9369,Juice - Apple, 341 Ml,62,9,6
+112,42-281-9832,Quiche Assorted,33,2,7
+113,69-724-3750,Turnip - White,28,8,6
+114,20-297-2383,Arizona - Plum Green Tea,67,6,3
+115,38-742-8167,Lid - High Heat, Super Clear,55,10,3
+116,10-380-3175,Quail - Jumbo,60,3,10
+117,82-851-3703,Wine - Tio Pepe Sherry Fino,85,4,10
+118,36-420-3785,Chips - Doritos,64,10,10
+119,13-451-6908,Bread - Wheat Baguette,55,5,5
+120,65-491-2366,Shrimp - 31/40,69,8,8
+121,85-662-1612,Island Oasis - Wildberry,51,3,6
+122,82-821-7539,Guava,45,10,3
+123,98-089-0433,Corn - On The Cob,64,5,7
+124,22-876-7989,Wine - Rioja Campo Viejo,94,5,6
+125,19-172-4690,Butter - Unsalted,78,5,8
+126,43-154-4248,Oil - Margarine,94,9,8
+127,08-010-5528,Rum - White, Gg White,14,3,7
+128,16-047-3824,Ham - Virginia,7,2,4
+129,96-697-5067,Sachet,100,6,3
+130,31-198-0069,Island Oasis - Raspberry,55,3,9
+131,47-486-3028,Bread - Onion Focaccia,27,8,8
+132,32-899-5048,Cheese - Feta,35,1,3
+133,88-186-3365,Canadian Emmenthal,56,8,9
+134,76-810-3857,Chocolate Eclairs,21,10,2
+135,91-448-3744,Celery,96,7,4
+136,57-784-1315,Langers - Mango Nectar,92,6,7
+137,78-775-8772,Lemon Pepper,40,1,2
+138,42-355-5760,Beef - Rib Roast, Capless,96,8,5
+139,10-701-9865,Flour - Strong Pizza,70,1,2
+140,32-324-1119,Bread - Rolls, Rye,88,2,2
+141,05-066-4562,Beef - Roasted, Cooked,64,5,1
+142,62-873-2251,Cheese - Swiss Sliced,63,10,5
+143,16-483-6706,Russian Prince,7,3,2
+144,52-353-3469,Wine - Red Oakridge Merlot,85,9,6
+145,15-827-7115,Pasta - Orzo, Dry,79,6,8
+146,74-957-1557,Longos - Assorted Sandwich,37,7,5
+147,71-143-0657,Carbonated Water - Raspberry,46,8,6
+148,41-039-4561,Wine - Vidal Icewine Magnotta,50,7,9
+149,79-382-8495,Straws - Cocktale,14,4,7
+150,59-605-8272,Piping - Bags Quizna,80,10,8
+151,85-996-3342,Jello - Assorted,3,9,2
+152,54-970-6905,V8 - Tropical Blend,59,9,8
+153,93-163-0821,Wine - Savigny - Les - Beaune,48,3,8
+154,18-527-9049,Crush - Grape, 355 Ml,92,6,8
+155,74-121-1296,Flax Seed,93,3,3
+156,28-628-4061,Wine - Ruffino Chianti Classico,3,6,7
+157,91-806-4957,Cheese - St. Paulin,91,5,4
+158,89-267-4199,Pastry - Key Limepoppy Seed Tea,96,4,5
+159,06-694-7285,Danishes - Mini Raspberry,73,3,8
+160,35-360-4530,Bread - Frozen Basket Variety,94,3,10
+161,64-948-2967,Lettuce - Curly Endive,17,4,7
+162,58-362-2530,Juice - Grapefruit, 341 Ml,58,3,3
+163,18-446-6831,Browning Caramel Glace,99,9,1
+164,20-754-5306,Teriyaki Sauce,96,1,5
+165,35-747-6959,Pie Shell - 9,30,8,8
+166,91-306-4312,Pepper - Cubanelle,26,10,5
+167,40-401-0341,Chicken - Whole,50,9,7
+168,19-404-0794,Wine - Cabernet Sauvignon,81,9,2
+169,20-025-7437,Wine - Chablis 2003 Champs,30,5,5
+170,06-934-3850,Cake Circle, Foil, Scallop,11,3,6
+171,04-041-8626,Daikon Radish,81,7,3
+172,87-217-8477,Sprouts Dikon,21,10,1
+173,44-582-5574,Mustard - Dijon,29,1,1
+174,53-121-4465,Nestea - Iced Tea,44,5,9
+175,18-487-4595,Chocolate Eclairs,57,5,5
+176,75-941-0485,Lettuce - Belgian Endive,47,9,2
+177,24-822-3385,Rum - Dark, Bacardi, Black,39,5,3
+178,75-634-2086,Bandage - Fexible 1x3,31,10,7
+179,14-101-7485,Coke - Diet, 355 Ml,86,10,9
+180,72-957-5542,Plastic Arrow Stir Stick,37,5,5
+181,32-452-2953,Red Pepper Paste,69,9,3
+182,33-353-0944,Squid Ink,38,1,7
+183,68-169-3191,Sherbet - Raspberry,100,2,2
+184,93-603-3523,Dr. Pepper - 355ml,45,7,3
+185,91-888-7686,Cheese - Havarti, Salsa,78,10,4
+186,00-267-6894,Cheese - Gouda Smoked,67,2,7
+187,29-518-4953,Wine - George Duboeuf Rose,72,2,4
+188,59-974-8613,Nantucket - Orange Mango Cktl,68,9,8
+189,10-838-1871,Instant Coffee,46,8,5
+190,37-792-9447,Beef - Top Sirloin,7,4,3
+191,07-784-2127,The Pop Shoppe - Lime Rickey,2,10,2
+192,41-312-2129,Onions - Cooking,83,10,9
+193,84-938-7231,Alize Gold Passion,11,4,3
+194,20-889-9036,Flavouring - Raspberry,63,6,8
+195,46-740-8610,Nut - Pecan, Pieces,6,4,5
+196,74-924-3274,Broom - Corn,37,5,4
+197,85-528-1601,Venison - Ground,50,4,6
+198,53-083-2809,Shrimp - Baby, Cold Water,45,3,6
+199,19-356-1464,Beer - Sleemans Honey Brown,96,10,8
+200,41-556-7471,Doilies - 7, Paper,47,5,3
+201,59-905-7929,Puff Pastry - Slab,62,9,8
+202,61-845-4722,Bread - Roll, Italian,71,8,10
+203,82-329-0589,Banana Turning,1,6,8
+204,79-877-7788,Shrimp - Baby, Warm Water,71,7,8
+205,01-344-4531,Ice Cream - Turtles Stick Bar,30,5,8
+206,62-458-6944,Napkin - Cocktail,beige 2 - Ply,96,1,4
+207,89-617-0253,Juice - Grapefruit, 341 Ml,73,6,2
+208,17-215-7569,Sauce - Balsamic Viniagrette,81,1,7
+209,09-582-9879,Versatainer Nc - 888,64,9,9
+210,27-011-0589,Rice Pilaf, Dry,package,61,7,7
+211,24-202-1040,Juice - Orangina,2,10,4
+212,02-028-4374,Cilantro / Coriander - Fresh,62,7,8
+213,75-842-3037,Sour Puss Sour Apple,54,7,10
+214,29-193-4093,Langers - Ruby Red Grapfruit,32,8,8
+215,90-459-4066,Red Snapper - Fillet, Skin On,2,5,6
+216,18-530-1850,Wine - Fume Blanc Fetzer,17,4,7
+217,84-993-4177,Jerusalem Artichoke,87,4,6
+218,14-759-3511,Yogurt - Peach, 175 Gr,82,9,5
+219,32-970-8925,Pail With Metal Handle 16l White,97,2,7
+220,45-148-6338,Rice Pilaf, Dry,package,72,7,3
+221,26-340-3306,Wine - Casillero Del Diablo,3,8,7
+222,62-236-4673,Shrimp - Black Tiger 6 - 8,92,1,10
+223,65-740-9121,Nantucket - Orange Mango Cktl,66,6,2
+224,94-120-1014,Papayas,31,2,7
+225,35-298-1630,Bacon Strip Precooked,84,2,5
+226,43-736-2364,Cheese - Cheddar With Claret,57,3,6
+227,41-491-9511,Wine - Pinot Grigio Collavini,4,4,3
+228,85-193-0684,Apron,4,2,2
+229,86-840-1497,Salt And Pepper Mix - Black,90,2,6
+230,89-915-2855,Pimento - Canned,3,2,5
+231,77-686-7090,Soup - Knorr, Country Bean,50,6,4
+232,49-367-4079,Mushroom - King Eryingii,74,4,7
+233,12-389-6843,Cheese - Sheep Milk,92,5,5
+234,91-944-4125,Lettuce - Sea / Sea Asparagus,73,7,3
+235,87-056-1890,Tia Maria,29,6,7
+236,75-307-9765,Lobster - Baby, Boiled,51,6,8
+237,40-949-2054,Soup - Campbells Asian Noodle,13,6,9
+238,62-067-9899,Sauce - Balsamic Viniagrette,7,7,2
+239,71-084-9594,Tomatoes - Vine Ripe, Yellow,33,8,3
+240,09-093-5372,Spice - Greek 1 Step,29,2,6
+241,99-294-4976,Ham - Cooked Italian,6,5,9
+242,85-120-8834,Jam - Raspberry,jar,89,1,2
+243,48-990-1065,Beef - Kindney, Whole,7,1,3
+244,93-672-2623,Mushroom - King Eryingii,87,3,9
+245,39-010-9478,Cheese - Wine,44,3,4
+246,20-734-8591,Beef - Top Sirloin,39,9,6
+247,87-911-2058,Chips Potato Swt Chilli Sour,44,9,2
+248,59-319-1417,Couscous,47,6,6
+249,61-977-9239,Muffin Mix - Blueberry,59,10,7
+250,38-067-4109,Wine - Red Oakridge Merlot,34,10,8
+251,13-732-7581,Bread - Olive Dinner Roll,5,10,3
+252,51-380-2093,Salt - Celery,46,9,8
+253,83-832-5333,Beef - Chuck, Boneless,36,6,1
+254,21-115-7384,Napkin White,55,2,8
+255,74-245-8106,Pepper - Sorrano,59,5,7
+256,03-862-1733,Wine - Cotes Du Rhone,92,10,7
+257,56-671-1847,Pastry - Apple Large,15,7,7
+258,94-984-8225,Honey - Comb,11,6,3
+259,27-703-8056,Sugar - Icing,73,3,7
+260,97-229-3895,Beer - Paulaner Hefeweisse,67,5,3
+261,83-567-5677,Bread - Raisin Walnut Pull,69,9,10
+262,59-977-3761,Puree - Guava,99,6,2
+263,86-390-0421,Tilapia - Fillets,54,1,2
+264,70-944-1022,Soup - Campbells - Tomato,86,5,4
+265,26-679-0694,Milk - 1%,29,2,4
+266,82-544-2122,Carroway Seed,36,10,1
+267,81-885-0086,Yukon Jack,95,1,2
+268,34-304-5734,Bread - Flat Bread,35,6,3
+269,35-770-5490,Rum - Coconut, Malibu,30,9,6
+270,55-650-0158,Cream - 18%,8,2,9
+271,95-004-9714,Trout - Rainbow, Fresh,5,4,5
+272,61-300-5325,Bouq All Italian - Primerba,6,10,9
+273,10-809-2465,Honey - Liquid,9,9,10
+274,65-551-6835,Dried Figs,66,7,6
+275,34-646-6179,Tandoori Curry Paste,7,8,4
+276,70-175-1346,Towel Dispenser,70,2,1
+277,33-531-0664,Sauce - Hollandaise,2,2,4
+278,16-441-6789,Beef - Ox Tongue, Pickled,37,3,2
+279,74-443-7877,Cafe Royale,11,6,1
+280,79-552-0911,Beef - Cow Feet Split,62,8,3
+281,28-219-9233,Tart - Raisin And Pecan,76,3,7
+282,64-439-0043,Scallop - St. Jaques,7,9,1
+283,00-244-8370,Flower - Commercial Bronze,57,2,6
+284,31-418-4246,Lumpfish Black,41,7,9
+285,88-999-7999,Oranges,3,8,6
+286,31-720-4758,Chocolate Liqueur - Godet White,100,2,3
+287,39-674-4688,Paper Towel Touchless,45,10,5
+288,25-202-5948,General Purpose Trigger,99,5,2
+289,60-030-6359,Sprouts - Peppercress,6,10,5
+290,91-971-9670,Chocolate - Milk,49,6,5
+291,17-384-9334,Jam - Raspberry,17,8,6
+292,89-957-3154,Cinnamon - Ground,57,7,6
+293,59-665-3126,Bread - Flat Bread,19,5,2
+294,44-021-4245,Cheese - Montery Jack,95,7,8
+295,11-110-9896,Longos - Grilled Veg Sandwiches,3,6,4
+296,85-435-6272,Appetizer - Assorted Box,1,7,4
+297,37-489-2692,Honey - Comb,75,8,3
+298,87-668-0734,Water - Tonic,96,10,5
+299,24-155-6467,Bagel - Ched Chs Presliced,75,1,1
+300,34-353-3460,Propel Sport Drink,88,1,3
+301,62-912-6020,Muffin Orange Individual,68,3,3
+302,36-671-0845,Jack Daniels,84,6,9
+303,94-575-9146,Cheese - Perron Cheddar,85,2,7
+304,29-783-9377,Zucchini - Green,38,4,8
+305,66-096-2620,Wine - White, Ej Gallo,21,5,2
+306,07-006-4653,Ham - Smoked, Bone - In,60,7,3
+307,09-619-0985,Sambuca - Opal Nera,39,8,8
+308,63-133-5262,Lid Coffee Cup 8oz Blk,47,8,4
+309,46-208-6995,Soup Campbells - Italian Wedding,22,9,2
+310,11-063-1743,Oven Mitt - 13 Inch,56,5,10
+311,64-187-8140,Rice - Brown,18,2,2
+312,08-945-0822,Pork - Belly Fresh,1,10,10
+313,16-343-6128,Cheese - Marble,9,8,8
+314,95-623-6738,Cheese - St. Paulin,32,4,3
+315,37-404-3918,Sprouts - Pea,40,2,9
+316,37-807-2946,Tea - Earl Grey,60,6,4
+317,18-610-7957,Thyme - Dried,86,1,9
+318,58-054-5451,Crab - Meat Combo,18,7,7
+319,12-679-8503,Bread Roll Foccacia,8,1,4
+320,26-159-0108,Lobster - Live,23,5,6
+321,66-871-2710,Pepper - Red, Finger Hot,87,5,2
+322,80-574-9721,Table Cloth 72x144 White,62,1,4
+323,58-958-7436,Muffin Mix - Lemon Cranberry,86,7,2
+324,69-413-1192,Cake - Cheese Cake 9 Inch,10,3,10
+325,03-118-5694,Paste - Black Olive,28,5,7
+326,74-054-2131,Pastry - Trippleberry Muffin - Mini,34,5,7
+327,89-172-2564,Butter Balls Salted,26,1,4
+328,60-835-4554,Allspice - Jamaican,42,3,2
+329,35-873-4236,Cheese - Cheddar With Claret,22,7,2
+330,40-399-4414,Foil - 4oz Custard Cup,26,3,8
+331,67-950-9275,Ketchup - Tomato,3,9,9
+332,27-585-9817,Curry Paste - Green Masala,36,2,10
+333,06-792-3039,Bread Country Roll,29,9,1
+334,30-792-5952,Five Alive Citrus,60,10,6
+335,29-796-0922,Mustard - Seed,61,2,2
+336,01-763-3050,Wine - Jackson Triggs Okonagan,37,8,3
+337,86-381-6006,Chocolate - Mi - Amere Semi,92,6,6
+338,27-086-4684,Muffin - Mix - Bran And Maple 15l,1,1,3
+339,71-093-4457,Beer - Upper Canada Lager,10,6,4
+340,64-539-8605,Ketchup - Tomato,21,9,9
+341,66-871-9755,Wine - Zonnebloem Pinotage,50,6,4
+342,75-014-8623,Mushroom - Portebello,87,6,6
+343,47-276-9622,Yucca,89,7,3
+344,85-575-1392,Fish - Base, Bouillion,1,9,4
+345,42-377-2347,Chicken - White Meat With Tender,2,6,4
+346,15-423-7905,Wine - Marlbourough Sauv Blanc,84,4,6
+347,80-295-0232,Tomatillo,88,9,7
+348,18-837-0455,Artichoke - Bottom, Canned,58,10,10
+349,73-639-9394,Croissants Thaw And Serve,88,5,5
+350,10-120-1749,Cheese - St. Paulin,63,2,8
+351,20-641-0592,Yoplait - Strawbrasp Peac,26,3,2
+352,97-429-9210,Beef - Kindney, Whole,85,9,10
+353,02-064-8738,Table Cloth 62x120 White,31,1,5
+354,03-609-2118,Island Oasis - Magarita Mix,25,1,4
+355,55-092-3354,Quail - Jumbo Boneless,23,4,9
+356,56-533-5600,Scallops - 20/30,7,7,8
+357,43-604-8977,Cookie Choc,5,5,10
+358,84-915-1160,Wine - Red, Lurton Merlot De,11,10,6
+359,06-366-5364,Dried Cherries,72,5,6
+360,34-145-8065,Lid - 16 Oz And 32 Oz,52,9,2
+361,99-342-6215,Pears - Fiorelle,20,2,4
+362,69-126-8774,Toothpick Frilled,53,8,5
+363,67-819-3525,Beef - Flank Steak,50,2,3
+364,94-141-3442,Glaze - Clear,21,10,8
+365,05-400-3981,Split Peas - Yellow, Dry,75,3,9
+366,17-055-7998,Sunflower Seed Raw,37,2,6
+367,01-125-5138,Nut - Peanut, Roasted,49,8,9
+368,81-682-8968,Energy Drink - Franks Pineapple,96,7,6
+369,41-156-1525,Beef Ground Medium,99,5,6
+370,34-088-2460,Lemon Pepper,98,7,4
+371,13-329-4902,Duck - Legs,26,8,4
+372,08-933-0388,Coffee - Espresso,22,4,9
+373,86-268-6815,Squash - Pattypan, Yellow,75,7,3
+374,34-575-3053,Wine - Prem Select Charddonany,72,8,2
+375,63-074-0716,Spinach - Baby,58,8,7
+376,62-310-1469,Tea - Camomele,35,7,9
+377,27-405-2973,Soup - Chicken And Wild Rice,1,10,3
+378,86-622-1268,Cake - Mini Potato Pancake,58,8,7
+379,38-406-8276,Salt - Rock, Course,64,5,1
+380,45-843-7916,Peas - Frozen,28,1,4
+381,27-971-9952,Venison - Ground,15,2,7
+382,64-885-2035,Liqueur Banana, Ramazzotti,89,2,8
+383,10-334-5328,Chips Potato All Dressed - 43g,86,3,10
+384,53-385-4262,Syrup - Monin - Blue Curacao,38,8,3
+385,06-796-1114,Sauce - Hoisin,53,3,4
+386,12-781-9221,Pepper - Cayenne,81,4,7
+387,00-933-5011,Pizza Pizza Dough,73,1,3
+388,04-744-1257,Cheese Cloth No 100,43,7,7
+389,94-416-7568,Bagelers - Cinn / Brown,22,6,9
+390,17-642-1803,Spice - Chili Powder Mexican,86,4,3
+391,83-392-9868,Soup - Campbells, Lentil,85,4,5
+392,88-704-2580,Bar Mix - Lime,84,2,8
+393,96-215-1230,Soup - Boston Clam Chowder,62,7,5
+394,22-709-4212,Pepper Squash,21,7,9
+395,79-448-6398,Remy Red,42,10,4
+396,19-883-3631,Compound - Passion Fruit,20,1,5
+397,94-183-4251,Cookies Almond Hazelnut,42,5,6
+398,23-128-4415,Table Cloth 72x144 White,26,7,4
+399,95-039-9133,Veal - Nuckle,66,5,8
+400,29-369-1389,Sauce - Alfredo,57,7,6
+401,31-438-4894,Cheese - Marble,98,9,3
+402,46-234-2231,Veal - Sweetbread,9,5,1
+403,98-283-5574,Cheese - Brie,69,6,5
+404,36-288-8127,Iced Tea - Lemon, 460 Ml,85,4,7
+405,12-050-5199,Whmis Spray Bottle Graduated,55,5,4
+406,34-456-7625,Eggroll,100,8,8
+407,33-478-2073,Bandage - Finger Cots,18,4,3
+408,03-033-8174,Oil - Shortening,liqud, Fry,96,2,7
+409,31-761-4614,Lid - Translucent, 3.5 And 6 Oz,81,7,1
+410,67-515-6448,Nut - Walnut, Chopped,61,1,9
+411,03-493-7714,Garbage Bag - Clear,81,3,10
+412,37-635-0505,Stock - Beef, White,22,2,7
+413,77-591-9376,Oregano - Dry, Rubbed,70,10,5
+414,09-848-1594,Whmis - Spray Bottle Trigger,64,9,6
+415,49-765-0504,Glucose,49,8,4
+416,72-358-5592,Soup Campbells - Italian Wedding,36,1,9
+417,48-941-5876,Shopper Bag - S - 4,29,9,10
+418,54-179-4451,Veal - Provimi Inside,68,9,10
+419,03-959-1346,Soup - Campbells Beef Stew,3,8,8
+420,46-817-7724,Table Cloth 62x120 White,17,10,6
+421,72-613-8589,Anchovy Paste - 56 G Tube,96,4,3
+422,37-400-0714,Shark - Loin,42,6,5
+423,27-731-1578,Jolt Cola,92,8,6
+424,29-728-1784,Wine - White, Pelee Island,100,10,2
+425,25-001-3694,Wine - Red, Gamay Noir,98,5,7
+426,43-205-6558,Garlic - Elephant,56,6,1
+427,01-852-1646,Compound - Passion Fruit,71,9,7
+428,75-138-2392,Muffin Mix - Morning Glory,47,3,8
+429,78-075-8890,Nantucket Cranberry Juice,76,6,2
+430,06-933-9867,Wine - Vovray Sec Domaine Huet,27,2,5
+431,54-197-2539,Fond - Neutral,96,7,6
+432,83-115-8985,Longos - Chicken Curried,63,6,5
+433,62-516-9856,Horseradish - Prepared,47,3,4
+434,84-044-6934,Chocolate - Mi - Amere Semi,8,2,8
+435,53-009-2855,Garbag Bags - Black,54,1,5
+436,04-096-2702,Chicken - Tenderloin,40,7,9
+437,34-012-2390,Carbonated Water - White Grape,15,5,5
+438,34-305-3188,Cookie Chocolate Chip With,61,2,2
+439,56-197-4445,Bacardi Breezer - Strawberry,23,1,6
+440,23-306-1925,Wine - Chenin Blanc K.w.v.,56,6,5
+441,93-838-8026,Tea - Black Currant,72,7,4
+442,24-325-7022,Wine - White, French Cross,92,9,7
+443,65-460-9349,Apron,27,2,9
+444,49-833-6027,Oil - Hazelnut,83,7,9
+445,85-458-5972,Juice - Happy Planet,88,4,10
+446,01-758-9457,Tomatoes - Vine Ripe, Red,45,10,5
+447,03-269-3783,Beer - Fruli,57,9,5
+448,77-537-7755,Syrup - Kahlua Chocolate,27,4,8
+449,98-847-2028,Wine - Chateauneuf Du Pape,59,4,3
+450,12-540-1912,Trout - Rainbow, Frozen,27,9,10
+451,02-605-2075,Bread - Multigrain, Loaf,28,9,8
+452,56-407-0605,Pork - Side Ribs,17,8,9
+453,61-410-0548,Tequila Rose Cream Liquor,81,4,9
+454,23-477-8488,Bread - Olive,11,6,6
+455,71-870-7780,Glass - Juice Clear 5oz 55005,58,5,9
+456,43-746-1873,Pepsi - 600ml,84,3,4
+457,59-009-9823,Beer - Upper Canada Lager,99,4,8
+458,82-219-1873,Appetizer - Southwestern,31,5,9
+459,25-565-8451,Sprouts - Pea,41,8,4
+460,80-836-8635,Sprouts - Pea,82,4,9
+461,70-104-6051,Beef - Kobe Striploin,73,3,4
+462,89-632-4844,Soup Bowl Clear 8oz92008,10,3,10
+463,86-405-9063,Wine - Niagara,vqa Reisling,22,6,5
+464,72-065-9404,Quail - Jumbo,24,8,1
+465,47-067-4218,Artichoke - Hearts, Canned,97,5,7
+466,35-529-5963,Lentils - Green Le Puy,31,8,7
+467,95-165-6804,Milkettes - 2%,48,6,6
+468,64-927-0603,Capon - Whole,89,5,2
+469,78-249-8183,Pesto - Primerba, Paste,61,6,5
+470,81-749-8343,Nori Sea Weed - Gold Label,39,6,6
+471,06-719-5518,Capers - Ox Eye Daisy,50,8,4
+472,23-145-5359,Scallops - In Shell,34,4,6
+473,27-707-3667,Scallops - 20/30,49,7,4
+474,28-531-4806,Bagelers - Cinn / Brown,16,2,4
+475,02-395-4946,Ecolab - Solid Fusion,8,2,9
+476,94-730-1767,Orange Roughy 4/6 Oz,86,3,10
+477,44-599-7237,Soup Campbells Split Pea And Ham,82,1,6
+478,12-542-4787,Pasta - Spaghetti, Dry,80,9,2
+479,37-201-4567,Kellogs All Bran Bars,58,6,9
+480,44-730-3593,Squid - Tubes / Tenticles 10/20,36,10,9
+481,45-093-9163,Bagel - Whole White Sesame,44,8,9
+482,24-099-7842,Sauce - Bernaise, Mix,9,1,1
+483,67-945-8384,Scallops - In Shell,30,2,10
+484,56-819-6092,Mushroom - Morel Frozen,70,6,8
+485,90-080-8273,Ice Cream - Chocolate,1,7,3
+486,07-977-6667,Pastry - Baked Cinnamon Stick,50,7,10
+487,07-265-8990,Pastry - Raisin Muffin - Mini,68,4,9
+488,73-386-2020,Bread - Flat Bread,10,9,4
+489,81-887-7091,Wine - Sake,66,10,2
+490,73-155-3877,Cheese - Goat,82,2,8
+491,31-469-4943,Horseradish - Prepared,66,2,6
+492,39-732-2764,Magnotta Bel Paese Red,15,7,9
+493,07-803-4857,Oats Large Flake,94,8,4
+494,04-870-2107,Cheese - Gouda,83,2,3
+495,29-686-3677,Sauce - Ranch Dressing,5,5,7
+496,86-573-1667,Sprouts - Corn,9,3,2
+497,14-617-0242,Soup - Verve - Chipotle Chicken,74,4,7
+498,18-264-7631,Pastry - Trippleberry Muffin - Mini,40,5,4
+499,44-375-7699,Scallops - In Shell,79,10,3
+500,84-854-1956,Beef - Salted,35,6,5
+501,41-761-5775,Artichoke - Fresh,34,2,4
+502,80-048-7741,Myers Planters Punch,59,5,7
+503,49-247-6836,Vinegar - Tarragon,88,10,4
+504,76-199-5532,Soup - Campbells Chili,43,6,2
+505,66-071-5434,Lid Tray - 12in Dome,15,2,8
+506,93-924-3563,Beef - Striploin Aa,48,7,4
+507,62-737-8966,Tarts Assorted,83,1,7
+508,11-666-4992,Pepper - Paprika, Hungarian,53,1,4
+509,15-063-5091,Cheese - Bocconcini,80,5,8
+510,63-211-9256,Sausage - Andouille,91,8,3
+511,12-522-4989,Pear - Halves,95,8,6
+512,83-367-4913,Butter Balls Salted,57,4,5
+513,04-513-8414,Cookie Dough - Peanut Butter,96,3,3
+514,50-492-2668,Amarula Cream,30,10,2
+515,06-286-4455,Flavouring Vanilla Artificial,53,6,3
+516,19-728-9267,Crawfish,79,2,6
+517,51-194-3716,Ginger - Ground,3,10,6
+518,12-860-5035,Cheese - Pied De Vents,81,6,10
+519,12-053-6745,Sole - Dover, Whole, Fresh,30,3,10
+520,21-021-5190,Juice - Grapefruit, 341 Ml,67,3,2
+521,96-087-7923,Brocolinni - Gaylan, Chinese,64,7,9
+522,96-254-7050,Wiberg Cure,37,1,3
+523,36-691-8845,Wine - White, Gewurtzraminer,72,3,6
+524,86-999-3240,Chicken - Leg, Boneless,4,6,5
+525,07-765-3902,Bacardi Mojito,38,8,2
+526,40-600-1686,Pepper - Red, Finger Hot,27,10,9
+527,81-341-9908,Cloves - Whole,14,10,6
+528,19-368-9742,Gelatine Powder,77,4,6
+529,96-929-3350,Butter Balls Salted,30,7,9
+530,82-278-6769,Soup - Campbells - Tomato,85,1,2
+531,81-020-7017,Ice Cream Bar - Rolo Cone,92,10,6
+532,67-405-8073,Rum - Dark, Bacardi, Black,17,1,2
+533,22-966-6638,Pepper - Red Bell,35,9,2
+534,74-538-4753,Browning Caramel Glace,71,7,3
+535,21-081-8121,Coke - Classic, 355 Ml,92,8,4
+536,78-196-8778,Tortillas - Flour, 12,27,7,7
+537,53-171-6708,Mudslide,11,2,3
+538,47-864-2809,Veal - Heart,77,5,3
+539,04-787-7822,Soup - Boston Clam Chowder,38,1,2
+540,20-259-6550,Onions - Cippolini,22,3,2
+541,75-497-1288,Wine - Jafflin Bourgongone,43,3,4
+542,75-205-3469,Cakes Assorted,23,1,8
+543,73-835-3907,Nantucket Apple Juice,63,2,9
+544,94-278-0216,Jolt Cola,48,2,3
+545,13-133-0300,Yoghurt Tubes,92,9,9
+546,52-844-5272,Rosemary - Primerba, Paste,40,5,1
+547,45-835-1710,Bread - Crumbs, Bulk,15,7,8
+548,36-773-0933,Lobster - Tail 6 Oz,39,9,9
+549,37-402-8062,Chickhen - Chicken Phyllo,40,4,2
+550,54-584-4775,Alize Red Passion,20,1,10
+551,20-231-3628,Pork - Tenderloin, Fresh,76,9,3
+552,13-610-7244,Cheese - Brie,danish,92,6,2
+553,01-803-8336,Octopus,38,4,9
+554,92-334-2967,Yoghurt Tubes,39,7,1
+555,60-174-1031,Flour - All Purpose,68,2,8
+556,11-026-6935,Pernod,60,10,3
+557,37-475-9498,Syrup - Monin, Swiss Choclate,4,5,4
+558,25-510-3569,Juice - Tomato, 10 Oz,87,1,7
+559,50-603-1164,Sauce - Rosee,66,2,3
+560,50-866-3857,Wine - Barolo Fontanafredda,71,9,9
+561,24-640-4608,Bread - Dark Rye,58,5,1
+562,77-629-6424,Beer - Corona,66,6,6
+563,87-801-7771,Lady Fingers,37,4,3
+564,94-104-5190,Calvados - Boulard,75,7,3
+565,20-224-9573,Veal - Eye Of Round,13,9,9
+566,83-340-6102,Appetizer - Crab And Brie,18,5,3
+567,22-419-2515,Zucchini - Mini, Green,96,5,1
+568,87-311-3157,Pork - Bacon, Sliced,80,8,3
+569,18-432-1514,Sugar - Individual Portions,15,5,9
+570,84-381-0310,Horseradish Root,58,5,6
+571,26-453-2544,Seedlings - Clamshell,91,8,2
+572,40-878-7041,Pastry - French Mini Assorted,73,6,8
+573,90-063-3345,Chicken - Leg, Fresh,93,8,6
+574,31-152-6444,Container - Clear 32 Oz,61,7,5
+575,91-227-9371,Pastry - Apple Muffins - Mini,96,9,9
+576,74-766-6983,Godiva White Chocolate,32,7,8
+577,86-614-3355,Seabream Whole Farmed,77,10,3
+578,79-768-3055,Veal - Chops, Split, Frenched,16,6,1
+579,54-698-4502,Wine - Prosecco Valdobiaddene,93,10,4
+580,70-543-8694,Chocolate - Chips Compound,21,10,6
+581,57-583-7846,Pastry - Chocolate Chip Muffin,19,9,6
+582,58-105-4648,Artichoke - Hearts, Canned,20,4,5
+583,18-825-4722,Paper Towel Touchless,97,4,5
+584,63-168-1217,Kohlrabi,12,4,4
+585,87-552-5117,Chicken Breast Halal,55,6,2
+586,48-983-6490,Wine - Red, Colio Cabernet,61,5,5
+587,34-826-8361,Chips - Assorted,100,5,2
+588,83-936-9124,Lamb - Leg, Diced,8,1,4
+589,77-535-6639,Cactus Pads,65,1,2
+590,67-588-0434,Cranberries - Fresh,69,1,3
+591,41-223-0736,Table Cloth 54x72 White,15,2,2
+592,16-824-5059,Crab - Claws, 26 - 30,8,6,9
+593,02-172-8124,Cheese - Goat With Herbs,33,9,9
+594,04-474-6965,Almonds Ground Blanched,69,3,2
+595,32-859-0059,Tart Shells - Sweet, 3,26,2,5
+596,78-524-5312,Wine - Prosecco Valdobiaddene,31,6,7
+597,56-447-1858,Puree - Guava,37,6,6
+598,67-611-7423,Asparagus - White, Fresh,15,3,8
+599,37-009-1530,Soup - Campbells, Spinach Crm,43,8,6
+600,28-129-7809,Bouillion - Fish,41,7,2
+601,40-635-3464,Venison - Liver,6,5,4
+602,93-676-2851,Flour - So Mix Cake White,82,6,1
+603,79-638-2816,Tea - English Breakfast,86,2,6
+604,71-671-8439,Plastic Wrap,80,1,7
+605,87-633-6965,Hot Choc Vending,61,5,3
+606,34-645-2818,Beer - Maudite,75,4,4
+607,79-687-3375,Spoon - Soup, Plastic,92,2,7
+608,76-615-2316,Sausage - Chorizo,50,3,9
+609,06-111-2082,Coffee - Decaffeinato Coffee,3,2,9
+610,47-816-9537,Peach - Fresh,40,7,3
+611,10-216-9175,Soupfoamcont12oz 112con,33,6,7
+612,49-185-9558,Potatoes - Pei 10 Oz,68,3,4
+613,06-878-0060,Turnip - White,38,5,4
+614,82-314-0492,Cheese - Boursin, Garlic / Herbs,14,2,4
+615,12-026-2463,Pork - Tenderloin, Frozen,3,6,3
+616,69-969-5991,Pasta - Tortellini, Fresh,31,7,9
+617,95-313-8063,Nantucket - Kiwi Berry Cktl.,46,6,9
+618,00-482-6346,Wine - Maipo Valle Cabernet,71,9,4
+619,67-365-9706,Wine - Casillero Deldiablo,14,10,7
+620,51-119-3386,Veal - Round, Eye Of,64,7,2
+621,92-357-8819,Coffee - Ristretto Coffee Capsule,16,3,10
+622,04-582-9035,Long Island Ice Tea,29,8,2
+623,33-530-8114,Beef - Striploin,91,1,2
+624,88-684-7505,Flour - Semolina,57,9,2
+625,23-303-7780,Sauce - Vodka Blush,67,10,4
+626,60-118-4238,Skirt - 24 Foot,79,6,7
+627,74-886-3766,Extract - Almond,80,5,7
+628,33-818-1077,Soup - Campbells, Cream Of,95,8,9
+629,48-502-2505,Scallops - 10/20,71,2,5
+630,76-627-0744,Soup - Campbells - Chicken Noodle,73,5,3
+631,16-690-0692,Marjoram - Fresh,27,1,4
+632,45-378-6795,Beef - Kobe Striploin,54,3,9
+633,90-921-4226,Bols Melon Liqueur,50,9,9
+634,40-740-5382,Beer - Guiness,83,6,2
+635,10-869-6992,Yoplait Drink,92,7,8
+636,53-928-3044,Kiwano,93,2,6
+637,19-945-0462,Soup - Campbells, Cream Of,45,4,3
+638,01-668-1741,Yeast - Fresh, Fleischman,2,6,7
+639,74-742-8262,Energy - Boo - Koo,26,8,2
+640,84-056-8278,Grapes - Black,95,1,6
+641,17-929-1267,Egg Patty Fried,32,7,1
+642,66-264-1371,Cheese - Mix,33,5,4
+643,20-167-5931,Crab - Dungeness, Whole, live,16,4,4
+644,64-108-4488,Pear - Asian,2,9,4
+645,41-175-4290,Quail - Whole, Bone - In,40,10,6
+646,04-106-7317,Samosa - Veg,64,3,7
+647,42-893-7135,Wine - Red, Pinot Noir, Chateau,24,1,9
+648,17-672-8646,Sambuca Cream,3,7,4
+649,45-190-6045,Beef - Rouladin, Sliced,11,9,8
+650,08-314-0363,Apron,9,1,6
+651,30-335-6248,Savory,46,5,8
+652,32-119-5517,Crab - Dungeness, Whole, live,60,3,8
+653,09-529-5245,Tart Shells - Sweet, 2,13,7,3
+654,64-295-0698,Pepper - Chilli Seeds Mild,89,5,6
+655,15-204-4678,Beans - Wax,81,8,4
+656,11-539-1583,Napkin - Beverge, White 2 - Ply,50,10,9
+657,28-021-4355,Beans - Black Bean, Canned,43,6,7
+658,20-707-6210,Flavouring Vanilla Artificial,63,8,9
+659,23-299-2778,Muffin Orange Individual,21,5,4
+660,86-596-1491,Cardamon Seed / Pod,32,8,6
+661,78-500-6440,Scallops - 10/20,31,3,1
+662,59-960-1600,Pimento - Canned,94,4,8
+663,26-398-3540,Ezy Change Mophandle,38,3,5
+664,75-948-4473,Sobe - Lizard Fuel,22,6,7
+665,70-189-7900,Plate Pie Foil,60,2,5
+666,49-018-8536,Chevere Logs,81,3,7
+667,10-654-0097,Lettuce - Arugula,29,9,10
+668,96-043-4483,Carbonated Water - Orange,79,6,6
+669,85-330-2513,Wine - Magnotta - Belpaese,42,7,2
+670,30-565-4874,Ginger - Pickled,32,3,4
+671,05-302-4434,Seedlings - Mix, Organic,44,7,3
+672,21-884-9011,Mushroom - Morel Frozen,18,1,10
+673,42-717-4444,Clam Nectar,28,6,2
+674,22-540-0498,Cheese - Gouda Smoked,24,1,3
+675,75-159-0964,Fork - Plastic,15,2,4
+676,32-537-1274,Turkey Leg With Drum And Thigh,35,7,3
+677,00-372-5289,Salt - Celery,96,10,3
+678,52-366-1864,Puff Pastry - Slab,7,3,2
+679,86-516-3622,Island Oasis - Ice Cream Mix,56,8,10
+680,03-609-5753,Magnotta - Bel Paese White,95,7,9
+681,66-018-1768,Wine - Alicanca Vinho Verde,15,9,7
+682,80-046-6756,Wine - Rosso Toscano Igt,19,7,5
+683,67-828-1114,Pasta - Fettuccine, Dry,66,4,5
+684,09-197-1355,Sobe - Orange Carrot,40,10,3
+685,68-950-8172,Pomegranates,8,9,9
+686,76-431-7902,Salmon Atl.whole 8 - 10 Lb,73,3,4
+687,61-058-6260,Sausage - Meat,81,1,10
+688,52-170-3950,Mussels - Cultivated,12,1,8
+689,31-100-2044,Soup - Knorr, Ministrone,28,9,2
+690,96-428-5668,Juice - Orange 1.89l,87,9,4
+691,68-376-9640,Soup - Knorr, Country Bean,5,3,2
+692,66-241-4890,Dates,9,1,10
+693,09-305-6889,Garlic - Primerba, Paste,7,4,9
+694,83-360-2542,Bacon Strip Precooked,54,6,2
+695,69-997-9452,Table Cloth 90x90 White,7,4,7
+696,78-719-6231,Pepper - Paprika, Spanish,52,2,7
+697,77-728-8450,Appetizer - Cheese Bites,39,10,5
+698,18-510-9907,Nut - Walnut, Pieces,70,9,8
+699,03-254-1339,Beef - Short Loin,37,6,9
+700,15-936-7880,Coffee - Decaffeinato Coffee,24,9,6
+701,22-266-1112,Chocolate Bar - Oh Henry,37,6,3
+702,18-977-1267,Cup - 4oz Translucent,99,1,4
+703,59-924-1800,Nescafe - Frothy French Vanilla,72,8,4
+704,10-874-8867,Bread - Calabrese Baguette,33,10,9
+705,25-171-0046,Bamboo Shoots - Sliced,85,5,5
+706,21-520-6734,Gingerale - Diet - Schweppes,88,7,9
+707,36-436-4285,Rice - Brown,86,2,4
+708,46-780-6602,Napkin - Dinner, White,25,1,3
+709,07-081-9988,Chips - Miss Vickies,29,7,5
+710,31-377-5320,Bagel - 12 Grain Preslice,22,1,3
+711,68-893-7302,White Baguette,62,2,6
+712,81-474-4941,Puree - Passion Fruit,43,8,6
+713,87-740-7327,Oil - Sesame,67,9,4
+714,02-009-5023,Wine - Cotes Du Rhone,40,3,3
+715,98-046-1027,Fish - Artic Char, Cold Smoked,8,9,3
+716,87-066-1996,Mikes Hard Lemonade,67,9,2
+717,14-887-5198,Tea - Green,38,8,5
+718,99-088-1133,Energy Drink,61,5,7
+719,90-512-4623,Wine - Ej Gallo Sonoma,29,9,10
+720,37-719-5773,Rice - Jasmine Sented,66,4,8
+721,36-019-0892,Vinegar - Sherry,99,3,3
+722,04-785-8765,Ecolab - Mikroklene 4/4 L,44,1,7
+723,89-091-9418,Salmon - Fillets,54,6,6
+724,55-930-2686,Salmon - Whole, 4 - 6 Pounds,19,6,9
+725,15-657-1946,Bread - Mini Hamburger Bun,81,10,4
+726,71-790-4741,Jameson Irish Whiskey,34,7,8
+727,12-289-1410,Coffee Cup 12oz 5342cd,24,6,5
+728,10-810-5280,Soup - Cream Of Potato / Leek,92,2,7
+729,98-409-5134,Muffin - Mix - Mango Sour Cherry,90,8,5
+730,78-780-2289,Thyme - Fresh,94,3,9
+731,54-429-9260,Ecolab - Ster Bac,17,1,7
+732,43-614-4082,Yoplait Drink,61,7,5
+733,65-187-9592,Sesame Seed,92,8,5
+734,93-623-0320,Cake - Pancake,87,3,9
+735,31-306-8310,Muffin Mix - Oatmeal,75,5,9
+736,42-913-5479,Muffin - Blueberry Individual,65,3,5
+737,51-554-6166,Eel - Smoked,16,2,8
+738,39-865-9835,Schnappes - Peach, Walkers,81,1,8
+739,57-812-3774,Appetizer - Chicken Satay,65,5,8
+740,87-868-1792,Bandage - Finger Cots,32,10,7
+741,03-827-3974,Beef - Rib Roast, Cap On,69,2,8
+742,27-240-1942,Veal - Insides Provini,36,10,5
+743,84-233-1633,Pancetta,100,4,1
+744,07-184-8066,Squash - Guords,68,9,6
+745,49-990-8708,Dawn Professionl Pot And Pan,2,2,7
+746,08-344-3354,Southern Comfort,66,6,8
+747,84-820-3729,Mushroom - White Button,2,9,4
+748,06-650-1153,Lemon Grass,47,10,9
+749,55-980-8714,Pepper - Black, Crushed,59,1,3
+750,97-422-4821,Apple - Fuji,23,3,2
+751,98-833-9392,Tequila - Sauza Silver,77,3,2
+752,09-218-1073,Parsnip,18,8,9
+753,28-927-6670,Juice - Mango,50,5,2
+754,40-358-5355,Soup - Beef Conomme, Dry,1,2,7
+755,40-517-8073,Rice - Wild,72,4,7
+756,20-026-6303,Icecream Cone - Areo Chocolate,21,4,2
+757,23-858-1253,Squid Ink,33,7,3
+758,65-056-7841,Lettuce - Frisee,78,9,6
+759,11-233-3682,Wine - Sauvignon Blanc Oyster,95,1,3
+760,19-381-0154,Tea Peppermint,25,10,7
+761,43-598-8963,Yogurt - Plain,30,8,3
+762,32-755-3000,Wine - Alicanca Vinho Verde,69,9,7
+763,66-996-4775,Rum - Spiced, Captain Morgan,62,10,9
+764,58-541-1700,Chick Peas - Canned,82,1,2
+765,98-725-6060,Radish - Black, Winter, Organic,13,8,8
+766,60-773-7863,Bread - Flat Bread,53,2,3
+767,61-554-7843,Bread - Focaccia Quarter,85,1,7
+768,76-097-5296,Veal - Insides Provini,21,3,5
+769,46-955-3203,Juice - Grapefruit, 341 Ml,11,7,4
+770,28-783-0612,Cheese - Shred Cheddar / Mozza,96,6,3
+771,92-255-9348,Artichokes - Jerusalem,37,10,7
+772,80-260-0482,Oil - Margarine,83,2,8
+773,81-358-3614,Truffle Cups - Brown,17,4,2
+774,81-182-8805,Shrimp - 16 - 20 Cooked, Peeled,64,9,9
+775,57-464-1420,Sugar - Fine,51,5,3
+776,97-169-9332,Veal - Heart,59,2,7
+777,27-937-7543,Star Anise, Whole,6,9,2
+778,04-330-3576,Nantucket Apple Juice,61,1,9
+779,83-455-9238,Yogurt - Plain,29,1,4
+780,11-124-7553,7up Diet, 355 Ml,3,7,4
+781,94-273-4974,Fork - Plastic,27,4,4
+782,96-867-3168,Jagermeister,5,8,3
+783,57-218-1456,Mushroom - Chanterelle, Dry,66,1,7
+784,71-058-8819,Lid - High Heat, Super Clear,8,7,6
+785,05-185-8828,Pie Shell - 9,53,5,8
+786,83-372-6632,Arctic Char - Fresh, Whole,95,9,8
+787,56-779-5361,Water - Spring Water, 355 Ml,41,4,5
+788,28-501-4911,Brandy Cherry - Mcguinness,31,2,7
+789,31-191-3434,Vinegar - White Wine,27,6,4
+790,19-550-4451,Bread - Roll, Whole Wheat,43,2,5
+791,24-654-4453,Oats Large Flake,91,4,7
+792,47-056-1251,Nestea - Ice Tea, Diet,1,10,1
+793,71-827-0124,Wine - Saint - Bris 2002, Sauv,38,4,6
+794,29-146-5889,Coffee - Colombian, Portioned,24,5,2
+795,98-978-6571,Tofu - Soft,100,7,3
+796,89-091-9796,Cheese - Montery Jack,49,2,9
+797,93-283-1151,Nut - Walnut, Chopped,41,3,9
+798,68-999-0417,Pasta - Lasagna Noodle, Frozen,18,1,2
+799,25-756-4788,Pastry - Cheese Baked Scones,58,2,3
+800,56-152-2728,Pecan Raisin - Tarts,8,5,5
+801,05-024-2219,Guava,40,2,6
+802,78-398-3799,Schnappes - Peach, Walkers,26,8,8
+803,90-949-2593,Muffin - Mix - Creme Brule 15l,38,3,10
+804,58-571-0432,Salmon - Whole, 4 - 6 Pounds,95,7,5
+805,88-053-3627,Chocolate - Sugar Free Semi Choc,38,10,4
+806,75-770-9819,Truffle Cups - White Paper,28,1,4
+807,87-714-9083,Halibut - Fletches,72,6,8
+808,10-440-8187,Cattail Hearts,70,4,3
+809,93-226-7482,Gooseberry,30,10,6
+810,38-544-9431,Crackers - Soda / Saltins,12,2,5
+811,49-208-5995,Quail - Jumbo,11,10,6
+812,21-579-5913,Bouillion - Fish,42,6,9
+813,51-405-7675,Asparagus - Frozen,34,5,3
+814,08-995-9880,Versatainer Nc - 888,41,3,4
+815,70-088-0337,Scallops - In Shell,39,6,3
+816,18-578-8107,Bread - Flat Bread,97,2,6
+817,75-766-7984,Pants Custom Dry Clean,21,3,9
+818,00-598-5467,Wine - Vidal Icewine Magnotta,8,7,6
+819,14-119-0833,Longos - Burritos,9,8,7
+820,17-122-8459,Bread - French Stick,5,1,8
+821,31-844-0435,Bag - Clear 7 Lb,100,5,1
+822,39-931-4568,Nut - Walnut, Pieces,86,7,2
+823,04-197-8283,Pork - Back, Long Cut, Boneless,23,1,2
+824,55-778-9489,Avocado,33,3,6
+825,92-413-3927,Appetizer - Lobster Phyllo Roll,77,2,5
+826,81-164-4861,Cookie - Dough Variety,91,6,9
+827,95-039-6823,Soup - Chicken And Wild Rice,56,5,7
+828,81-548-6939,Butter Balls Salted,7,5,10
+829,35-855-0124,Ecolab Silver Fusion,17,7,7
+830,90-953-9250,Butter Ripple - Phillips,81,8,9
+831,61-984-6530,Beer - Sleemans Honey Brown,31,4,4
+832,16-630-2565,Cheese - Colby,98,7,8
+833,55-665-3646,Container Clear 8 Oz,11,3,6
+834,34-766-3591,Chips Potato Reg 43g,28,6,10
+835,72-195-7230,Wine - Riesling Alsace Ac 2001,95,6,9
+836,81-037-9552,Wine - Cousino Macul Antiguas,87,4,5
+837,81-408-1907,Cheese - Le Cru Du Clocher,24,10,9
+838,76-411-2038,Sultanas,79,1,2
+839,25-616-1806,Truffle - Whole Black Peeled,26,1,1
+840,88-668-1926,Bar - Granola Trail Mix Fruit Nut,44,4,5
+841,29-225-5979,Sprouts - Corn,79,4,8
+842,29-397-2060,Cheese - Bakers Cream Cheese,86,9,9
+843,98-965-9962,Glass - Wine, Plastic, Clear 5 Oz,64,4,5
+844,96-717-5988,Sage - Fresh,51,1,5
+845,38-598-4318,Island Oasis - Raspberry,72,4,10
+846,14-290-5292,Milk - Chocolate 250 Ml,26,3,6
+847,69-766-3272,Appetizer - Sausage Rolls,94,6,2
+848,00-372-8934,Ice Cream - Strawberry,86,2,9
+849,40-863-7150,Rice - Long Grain,2,7,9
+850,74-559-3463,Ice Cream Bar - Drumstick,48,7,7
+851,70-123-4275,Puree - Pear,51,7,10
+852,16-966-5136,Pasta - Fusili Tri - Coloured,6,7,1
+853,65-572-5183,Chocolate - Liqueur Cups With Foil,90,10,1
+854,52-717-5591,Soup - Tomato Mush. Florentine,90,8,4
+855,22-399-9430,Croissant, Raw - Mini,54,5,7
+856,70-793-0272,Snapple - Mango Maddness,33,4,7
+857,51-815-9848,Tea - Darjeeling, Azzura,13,9,4
+858,04-461-6059,Island Oasis - Wildberry,99,3,2
+859,79-644-0452,Beef - Kindney, Whole,28,6,3
+860,46-697-3768,Rum - Coconut, Malibu,34,1,2
+861,03-267-8641,Carbonated Water - Cherry,93,10,8
+862,93-851-8862,Bread - Roll, Italian,75,4,8
+863,74-065-1940,Appetizer - Chicken Satay,27,7,1
+864,39-813-8480,Jameson Irish Whiskey,20,2,3
+865,04-354-5913,Appetiser - Bought,33,4,5
+866,42-181-6554,Miso Paste White,24,2,3
+867,12-517-0663,Beef - Ox Tongue, Pickled,5,3,7
+868,28-551-4906,Bread - Assorted Rolls,91,1,4
+869,37-814-9241,Chocolate - Pistoles, White,13,2,9
+870,16-206-2640,Appetizer - Mushroom Tart,25,2,8
+871,33-144-2540,Wine - Domaine Boyar Royal,52,3,10
+872,66-217-0766,Soup - Campbells Beef Stew,96,2,7
+873,98-458-0693,Yogurt - Peach, 175 Gr,30,3,6
+874,01-175-1752,Sauce - Thousand Island,99,1,5
+875,45-559-0334,Bread Bowl Plain,99,4,9
+876,38-833-0063,Bar - Granola Trail Mix Fruit Nut,46,9,9
+877,77-901-9126,Cake Circle, Foil, Scallop,99,5,9
+878,40-238-9916,Cheese - Cheddarsliced,17,3,5
+879,66-795-2448,Tart Shells - Sweet, 4,23,3,10
+880,48-201-7007,Carrots - Purple, Organic,53,8,8
+881,22-647-1397,Wine - White, Concha Y Toro,43,10,1
+882,93-694-5072,Clams - Littleneck, Whole,24,6,3
+883,45-472-1502,Chocolate Bar - Oh Henry,35,10,7
+884,49-563-5620,Wine - Peller Estates Late,29,1,6
+885,11-328-5605,Beer - Molson Excel,37,7,2
+886,30-787-2859,Wine - Mondavi Coastal Private,14,4,8
+887,90-762-8134,Mushroom - Trumpet, Dry,34,6,1
+888,75-033-3642,Mayonnaise,31,8,5
+889,72-940-6124,Island Oasis - Raspberry,100,7,2
+890,72-978-2095,Strawberries - California,33,9,6
+891,26-804-8128,Coffee - French Vanilla Frothy,29,2,3
+892,09-426-7188,Wine - Chardonnay South,20,8,6
+893,40-542-1812,Cookie - Dough Variety,15,7,7
+894,04-977-9279,Garam Marsala,78,6,2
+895,89-120-3241,Wine - Vineland Estate Semi - Dry,6,7,1
+896,56-038-4586,Tea - Camomele,67,5,3
+897,68-482-4208,Galliano,18,6,7
+898,50-112-6758,Wine - Red, Colio Cabernet,15,8,9
+899,53-000-6070,Duck - Legs,68,8,3
+900,58-238-2869,Muffin Hinge - 211n,1,1,9
+901,93-756-9191,Sauce - Cranberry,13,6,8
+902,12-187-3251,V8 - Tropical Blend,22,7,7
+903,72-518-2600,Yogurt - Raspberry, 175 Gr,97,10,6
+904,99-957-6514,Sesame Seed,71,10,7
+905,21-388-4183,Cheese - St. Paulin,17,10,8
+906,66-164-8800,Beef - Tender Tips,27,4,9
+907,17-890-6743,Wine - Cotes Du Rhone,92,9,1
+908,54-205-6697,Godiva White Chocolate,82,9,10
+909,42-768-0458,Foil Cont Round,26,4,6
+910,24-444-1117,Kahlua,54,4,10
+911,02-574-7734,Duck - Breast,72,2,10
+912,44-561-6776,Papayas,66,9,6
+913,96-733-0577,Pie Shell - 9,43,10,9
+914,16-729-4079,Gooseberry,49,3,7
+915,00-382-2805,Capon - Whole,67,5,1
+916,26-867-9659,Lobster - Tail 6 Oz,40,3,4
+917,20-838-6860,Bread - Roll, Whole Wheat,23,8,7
+918,31-827-8598,Celery,85,9,10
+919,93-859-5517,Munchies Honey Sweet Trail Mix,72,3,7
+920,51-355-6931,Sugar - Monocystal / Rock,45,7,5
+921,64-451-7041,Pear - Packum,5,9,9
+922,12-489-2551,Zucchini - Yellow,74,6,8
+923,71-539-3449,Onions - Spanish,23,4,3
+924,54-151-5959,Soup - Campbells, Butternut,18,7,10
+925,27-342-8042,Steam Pan - Half Size Deep,49,7,2
+926,77-543-9182,Beef - Top Butt Aaa,66,1,2
+927,54-198-1512,Crab - Back Fin Meat, Canned,84,7,9
+928,87-869-4548,Container - Hngd Cll Blk 7x7x3,65,8,5
+929,76-042-2773,Eggplant - Baby,35,5,3
+930,80-998-2133,Muffin - Mix - Mango Sour Cherry,75,7,8
+931,28-531-8070,Cranberries - Dry,78,1,6
+932,26-699-2502,Trout - Smoked,5,7,7
+933,41-903-5221,Tahini Paste,67,6,6
+934,39-837-3886,Soup - Boston Clam Chowder,78,8,2
+935,76-664-6476,Creamers - 10%,38,6,4
+936,89-091-1559,Veal - Insides Provini,61,3,5
+937,29-618-6425,Fudge - Chocolate Fudge,72,1,7
+938,38-471-7609,Juice - Cranberry, 341 Ml,97,8,5
+939,13-526-4702,Cake - Sheet Strawberry,89,8,7
+940,58-993-3474,Soup - Knorr, Country Bean,5,10,7
+941,09-315-6050,Tea Peppermint,92,9,8
+942,23-181-9273,Soup Knorr Chili With Beans,37,10,6
+943,81-218-9648,Tea - Darjeeling, Azzura,88,3,5
+944,20-212-1377,Energy Drink - Redbull 355ml,7,3,9
+945,10-532-4162,Crab - Claws, Snow 16 - 24,83,4,9
+946,04-258-4684,Chicken Breast Halal,62,10,3
+947,01-123-1813,Chocolate - Milk Coating,99,9,3
+948,01-315-1680,Pepper - Black, Crushed,88,7,8
+949,08-723-8947,Eel - Smoked,52,7,8
+950,38-222-3933,Fudge - Cream Fudge,91,3,7
+951,27-423-3422,Yogurt - Blueberry, 175 Gr,82,2,7
+952,86-009-7106,Rice - Wild,57,4,3
+953,79-447-2140,Soup - French Onion,85,7,4
+954,06-674-3620,Pastry - Banana Muffin - Mini,51,4,3
+955,83-438-3969,Compound - Pear,83,1,7
+956,76-726-0739,Carrots - Mini, Stem On,73,3,5
+957,91-792-8609,Lamb - Leg, Boneless,29,3,3
+958,91-611-2567,Sea Bass - Whole,69,7,2
+959,08-755-7186,Wine - Trimbach Pinot Blanc,21,6,2
+960,59-863-6784,Wine - Coteaux Du Tricastin Ac,44,9,3
+961,41-167-2547,Duck - Legs,29,4,3
+962,67-186-7809,Bread - Rosemary Focaccia,19,10,2
+963,33-426-8950,Wine - White, Lindemans Bin 95,58,7,8
+964,20-579-2417,Brandy Cherry - Mcguinness,64,8,5
+965,28-336-1457,Mushrooms - Black, Dried,28,8,4
+966,52-012-9701,Gloves - Goldtouch Disposable,45,7,6
+967,02-633-4942,Longos - Chicken Cordon Bleu,33,9,5
+968,75-145-4924,Tomatoes - Cherry, Yellow,6,3,6
+969,00-936-2267,Crawfish,66,10,4
+970,13-693-6414,Sugar Thermometer,83,5,2
+971,74-635-2342,Dragon Fruit,12,1,3
+972,41-691-5076,Kellogs Raisan Bran Bars,7,9,4
+973,13-841-1413,Beer - Pilsner Urquell,87,10,4
+974,10-092-6940,Vaccum Bag 10x13,84,4,9
+975,38-832-4885,Squid U5 - Thailand,86,3,3
+976,52-203-9431,Beer - Sleemans Cream Ale,89,1,8
+977,93-803-7556,Chicken - Breast, 5 - 7 Oz,58,7,5
+978,86-693-4184,Bread Crumbs - Japanese Style,59,4,2
+979,95-602-7718,Buffalo - Short Rib Fresh,70,9,3
+980,27-105-9092,Olives - Green, Pitted,33,6,9
+981,65-975-7650,Beef - Prime Rib Aaa,67,7,2
+982,94-513-4929,Sprouts - Peppercress,44,10,1
+983,59-433-5127,Pear - Packum,6,2,4
+984,17-902-8079,Wine - White, French Cross,48,3,10
+985,01-146-1542,Nut - Pumpkin Seeds,14,6,5
+986,57-529-3370,Beer - Creemore,99,4,5
+987,05-396-7376,Veal - Brisket, Provimi, Bone - In,74,6,8
+988,67-087-5895,Jolt Cola,91,8,6
+989,98-737-1700,Avocado,74,4,5
+990,61-050-7697,Salt And Pepper Mix - Black,88,10,6
+991,01-008-0332,Beef - Cow Feet Split,14,5,7
+992,80-297-7382,Wine - Magnotta - Cab Sauv,48,8,9
+993,22-061-5983,Vinegar - Balsamic,39,10,7
+994,49-735-0201,Rosemary - Primerba, Paste,4,2,9
+995,68-336-3371,Wine - Red, Gamay Noir,60,5,1
+996,77-929-6731,Cake - Miini Cheesecake Cherry,1,6,5
+997,11-485-2290,Cookie Chocolate Chip With,40,1,8
+998,23-975-4322,Nori Sea Weed - Gold Label,95,7,2
+999,53-213-7435,Wine - Magnotta - Cab Franc,38,4,10
+1000,43-896-8812,Syrup - Monin - Passion Fruit,75,9,3
+
